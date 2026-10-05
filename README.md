@@ -2,7 +2,7 @@
 
 Demostración pública del menú digital por QR de **Dejoma Pizzaria**, para mostrar al cliente la experiencia que tendrán sus comensales.
 
-**👉 Ver la demo:** https://tato-tech-solutions.github.io/dejoma-demo/
+**👉 Ver la demo:** https://bogotas-tech-solutions.github.io/dejoma-demo/
 
 > ⚠️ **Versión de demostración.** Los precios, tamaños y el número de WhatsApp son provisionales hasta que el cliente los confirme.
 
@@ -48,8 +48,8 @@ Por eso funciona sin un servidor encendido. La contraparte es que **no se actual
 
 | Repositorio | Propósito |
 |---|---|
-| [pizzeria-backend](https://github.com/tato-tech-solutions/pizzeria-backend) | API REST (Spring Boot + PostgreSQL) |
-| [pizzeria-frontend](https://github.com/tato-tech-solutions/pizzeria-frontend) | Aplicación final (React + Vite + Tailwind) |
+| [pizzeria-backend](https://github.com/bogotas-tech-solutions/pizzeria-backend) | API REST (Spring Boot + PostgreSQL) |
+| [pizzeria-frontend](https://github.com/bogotas-tech-solutions/pizzeria-frontend) | Aplicación final (React + Vite + Tailwind) |
 | **dejoma-demo** | Esta demo estática y temporal |
 
 Este repositorio es **temporal**: se archivará cuando la aplicación final esté en producción.
