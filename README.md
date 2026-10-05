@@ -4,7 +4,7 @@ Demostración pública del menú digital por QR de **Dejoma Pizzaria**, para mos
 
 **👉 Ver la demo:** https://bogotas-tech-solutions.github.io/dejoma-demo/
 
-> ⚠️ **Versión de demostración.** Los precios, tamaños y el número de WhatsApp son provisionales hasta que el cliente los confirme.
+> ⚠️ **Versión de demostración.** Los precios y tamaños son provisionales hasta que el cliente los confirme. Los pedidos sí llegan al WhatsApp real de la pizzería.
 
 ## ✨ Qué se puede probar
 
@@ -38,7 +38,7 @@ Por eso funciona sin un servidor encendido. La contraparte es que **no se actual
 ## 📌 Pendientes con el cliente
 
 - [ ] Precios reales y tamaños de cada pizza
-- [ ] Número de WhatsApp completo con código de área (DDD)
+- [x] Número de WhatsApp completo con código de área (DDD)
 - [ ] Confirmar si hay bebidas u otros productos
 - [ ] Confirmar si ofrecen *meio a meio*
 - [ ] Fotos de las pizzas
